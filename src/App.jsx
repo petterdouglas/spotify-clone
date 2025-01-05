@@ -1,7 +1,7 @@
 import { useContext } from "react"
 import Player from "./components/Player"
 import Sidebar from "./components/Sidebar"
-import Display from './components/display'
+import Display from './components/Display'
 import { PlayerContext } from "./context/PlayerContext"
 
 const App = () => {
